@@ -1,0 +1,17 @@
+[
+  {
+    "sender": "customer1@example.com",
+    "subject": "Issue with latest bill",
+    "body": "Hello, I was charged twice on my credit card. Please fix this billing issue urgently."
+  },
+  {
+    "sender": "customer2@example.com",
+    "subject": "Product not working",
+    "body": "My internet connection is down since morning. The router is not working – need technical support ASAP."
+  },
+  {
+    "sender": "customer3@example.com",
+    "subject": "General inquiry",
+    "body": "Hi, I have a question about your service hours. It's not urgent."
+  }
+]
